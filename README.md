@@ -5,14 +5,14 @@ www.pritunl.com
 
 _Create By MK_
 _______________________________________________
-Script ini hanya mengandungi
+Script suport
 - Pritunl
 - MongoDB
 - Vnstat
 - Web Server
-- Squid Proxy Port 7166,60000"
+- Squid Proxy Port 8080,8000,80"
 
-**TimeZone**   :  Malaysia
+**TimeZone**   :  Jakarta
 
 _________________________________________________
 **Script**
@@ -24,9 +24,9 @@ Coming Soon
 
 Debian 8
 ```
-wget https://raw.githubusercontent.com/zero9911/pritunl/master/debian8.sh
-chmod +x debian8.sh
-./debian8.sh
+wget https://raw.githubusercontent.com/elangoverdosis/deeniedoank2/debian8/cinta8.sh
+chmod +x cinta8.sh
+./cinta8.sh
 ```
 Debian 7
 ```
@@ -40,14 +40,14 @@ Coming Soon
 
 Ubuntu 14.xx
 ```
-wget https://raw.githubusercontent.com/zero9911/pritunl/master/ubuntu14.sh
+wget https://raw.githubusercontent.com/elangoverdosis/deeniedoank2/ubuntu14.sh
 chmod +x ubuntu14.sh
 ./ubuntu14.sh
 ```
 __________________________________________________
 
 Ingin beli VPS
-Beli di [DigitalOcean] (https://m.do.co/c/df29aad8461c)
+Beli di [DigitalOcean] atau hub: fb./t34mh4ck3r
 
 __________________________________________________
 **NOTE**
