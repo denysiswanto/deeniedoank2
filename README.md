@@ -52,13 +52,7 @@ Beli di [DigitalOcean] atau hub: fb./t34mh4ck3r
 __________________________________________________
 **NOTE**
 
- - Tidak akan bertanggungjawab jika berlaku sesuatu pada diri atau bukan pada diri
- - Sila dapatkan kebenaran sebelum meng"edit" 
- 
- _BY MK_
- 
- MUHAMMAD KHAIRUNNAS 
-http://telegram.me/pirated123
+ - Tidak akan bertanggungjawab jika berlaku sesuatu pK
 ___________________________________________________
 
 Jika script mempunyai masalah sila buat "New Issues"
