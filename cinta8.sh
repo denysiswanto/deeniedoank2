@@ -167,3 +167,8 @@ echo "Pritunl    :  https://$MYIP"
 echo "Silahkan login ke pritunl untuk proceed step seterusnya"
 echo "Silahkan copy code dibawah untuk Pritunl anda"
 pritunl setup-key
+
+cd ~/
+rm -f /root/cinta8.sh
+rm -f /root/IP
+rm -f /usr/bin/pass
