@@ -3,7 +3,7 @@ ______________________________________________
 
 www.pritunl.com
 
-_Create By MK_
+
 _______________________________________________
 Script suport
 - Pritunl
@@ -47,12 +47,12 @@ chmod +x ubuntu14.sh
 __________________________________________________
 
 Ingin beli VPS
-Beli di [DigitalOcean] atau hub: fb./t34mh4ck3r
+Beli di [DigitalOcean] atau hub: fb.com/t34mh4ck3r
 
 __________________________________________________
 **NOTE**
 
- - Tidak akan bertanggungjawab jika berlaku sesuatu pK
+ - Tidak akan bertanggungjawab jika sesuatu
 ___________________________________________________
 
 Jika script mempunyai masalah sila buat "New Issues"
