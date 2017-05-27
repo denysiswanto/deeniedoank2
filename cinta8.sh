@@ -154,16 +154,16 @@ cd
 
 # About
 clear
-echo "Script ini hanya mengandungi :-"
+echo "Script suport:-"
 echo "-Pritunl"
 echo "-MongoDB"
 echo "-Vnstat"
 echo "-Web Server"
 echo "-Squid Proxy Port 7166,60000"
-echo "BY MKSSHVPN"
-echo "TimeZone   :  Malaysia"
+echo "BY YUSUF ARDIANSYAH & ELANG OVERDOSIS"
+echo "TimeZone   :  Jakarta"
 echo "Vnstat     :  http://$MYIP:81/vnstat"
 echo "Pritunl    :  https://$MYIP"
-echo "Sila login ke pritunl untuk proceed step seterusnya"
-echo "Sila copy code dibawah untuk Pritunl anda"
+echo "Silahkan login ke pritunl untuk proceed step seterusnya"
+echo "Silahkan copy code dibawah untuk Pritunl anda"
 pritunl setup-key
